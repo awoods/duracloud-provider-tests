@@ -1,0 +1,28 @@
+# Requirements
+rvm use 1.9.2
+gem install httpclient
+
+# Usage
+ruby storage_provider_tester.rb
+
+# Description
+Included in this project are six tests:
+- create space
+- delete space
+- add content
+- content md5
+- content property
+- delete content
+
+By commenting out all but one of them in StorageProviderTester, a given test 
+can be run.
+Additionally, by selecting either 'do_test' or 'cleanup', the test will be run
+or the by-products of a previously run test will be removed.
+
+In the constructor of StorageProviderTestBase, the following options should be 
+specified:
+- test file
+- number of content items
+- number of spaces (containers)
+- store mapping (storeId -> store name)
+

@@ -1,0 +1,18 @@
+<map>
+  <entry>
+    <string>space-created</string>
+    <string>Wed, 21 Dec 2011 23:08:16 UTC</string>
+  </entry>
+  <entry>
+    <string>acl-group-public</string>
+    <string>READ</string>
+  </entry>
+  <entry>
+    <string>space-total-size</string>
+    <string>373</string>
+  </entry>
+  <entry>
+    <string>acl-admin</string>
+    <string>READ</string>
+  </entry>
+</map>
