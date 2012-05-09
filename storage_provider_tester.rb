@@ -14,7 +14,7 @@ require_relative 'content_property_test'
 require_relative 'delete_content_test'
 
 #
-# This class...
+# This class is the test driver.
 #
 # @author Andrew Woods
 #         Date: May 08, 2012

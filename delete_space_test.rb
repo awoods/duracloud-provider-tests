@@ -9,7 +9,7 @@
 require_relative 'storage_provider_test_base'
 
 #
-# This class...
+# This class performs tests of deleting spaces.
 #
 # @author Andrew Woods
 #         Date: May 08, 2012

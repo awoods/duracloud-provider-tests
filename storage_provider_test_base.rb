@@ -13,7 +13,7 @@ require 'digest/md5'
 require 'logger'
 
 #
-# This class...
+# This class is the base class of functional tests.
 #
 # @author Andrew Woods
 #         Date: May 08, 2012
